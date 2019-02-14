@@ -1,0 +1,9 @@
+item.simple_gateway.name=Simple Gateway
+item.simple_gateway_activated.name=Activated Simple Gateway
+item.obsidian_crystal.name=Obsidian Crystal
+item.obsidian_crystal_dust.name=Obsidian Crystal Dust
+item.quartz_dust.name=Nether Quartz Dust
+tile.dense_obsidian.name=Dense Obsidian
+tile.gateway_activator.name=Gateway Activator
+itemGroup.tab_obtech=ObTech
+container.gatewayactivator=Gateway Activator

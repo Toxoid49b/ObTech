@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obtech",
+  "name": "ObTech",
+  "description": "Adds various obsidian-based technologies to the game",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
+  "url": "http://whodoyoufear.me",
+  "updateUrl": "",
+  "authorList": ["Toxoid49b"],
+  "credits": "Toxoid49b, obnoxious furry/scalie",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
